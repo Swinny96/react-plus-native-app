@@ -44,7 +44,7 @@ next-env.d.ts
 mobile/node_modules
 mobile/ios/Pods
 mobile/ios/build
-mobile/ios/*.xcworkspace
+mobile/ios/**/*.xcworkspace
 mobile/android/build
 mobile/android/app/build
 mobile/android/.gradle
